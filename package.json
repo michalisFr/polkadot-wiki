@@ -56,7 +56,7 @@
     "@crowdin/cli": "^3.6.4",
     "@docusaurus/core": "2.0.0-beta.3",
     "@docusaurus/module-type-aliases": "^2.0.0-beta.3",
-    "@docusaurus/plugin-client-redirects": "^2.0.0-beta.3",
+    "@docusaurus/plugin-client-redirects": "^2.0.0-beta.759298296",
     "@docusaurus/preset-classic": "2.0.0-beta.3",
     "@octokit/rest": "^18.6.6",
     "@polkadot/api": "^4.16.2",
