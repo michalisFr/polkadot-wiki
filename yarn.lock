@@ -7126,14 +7126,15 @@ module-alias@^2.2.2:
   resolved "https://registry.yarnpkg.com/module-alias/-/module-alias-2.2.2.tgz#151cdcecc24e25739ff0aa6e51e1c5716974c0e0"
   integrity sha512-A/78XjoX2EmNvppVWEhM2oGk3x4lLxnkEA4jTbaK97QKSDjkIoOsKQlfylt/d3kKKi596Qy3NP5XrXJ6fZIC9Q==
 
-mr-pdf@^1.0.5:
-  version "1.0.5"
-  resolved "https://registry.yarnpkg.com/mr-pdf/-/mr-pdf-1.0.5.tgz#e82bf205293789c5f656d86b6b88e8f85826fa9b"
-  integrity sha512-npyAGEtxm+TeFojk1CVPMm6mlAW4zfc+QqetD40rxMoQlM/gmQNkSlX2ISijaSlfkX6nPgh3ZOfb1TyF0o+brQ==
+mr-pdf@^1.1.0:
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/mr-pdf/-/mr-pdf-1.1.0.tgz#489c814eb71d1a0723ef8cead5a0b2dd9e550da8"
+  integrity sha512-0+9SljZ4Nz9JevAmC/ECIo0Eod9hbgUAN05jd4Hud+A3LUAPrkwaC0fBsHFM6usHXU3M7gEgsOmeumiBnBVJag==
   dependencies:
     chalk "^3.0.0"
     commander "^4.1.1"
     puppeteer "^2.1.1"
+    puppeteer-autoscroll-down "^1.1.1"
 
 ms@2.0.0:
   version "2.0.0"
@@ -8321,6 +8322,11 @@ pupa@^2.1.1:
   integrity sha512-l1jNAspIBSFqbT+y+5FosojNpVpF94nlI+wDUpqP9enwOTfHx9f0gh5nB96vl+6yTpsJsypeNrwfzPrKuHB41A==
   dependencies:
     escape-goat "^2.0.0"
+
+puppeteer-autoscroll-down@^1.1.1:
+  version "1.1.1"
+  resolved "https://registry.yarnpkg.com/puppeteer-autoscroll-down/-/puppeteer-autoscroll-down-1.1.1.tgz#895062605143893c74117f69eefa63a237795c90"
+  integrity sha512-NT0/bO4QBCwMPUhTcTItGojP3W9SNQL/VaW57x8bC3HTraQ2qjicZzf0c4ysNvOHwZf/NMMZxscuTymXZ18sGA==
 
 puppeteer@^2.1.1:
   version "2.1.1"
